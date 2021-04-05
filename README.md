@@ -1,0 +1,2 @@
+# angularHeroesApp
+Angular frontend application 
